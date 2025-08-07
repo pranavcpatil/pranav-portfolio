@@ -16,6 +16,8 @@
 
     <header class="header">
         <h1>Portfolio</h1>
+        <div class="menu-toggle" onclick="toggleMenu()">☰</div>
+
         <nav class="nav" id="navbar">
             <a href="#home">Home</a>
             <a href="#about">About</a>
@@ -205,6 +207,12 @@
         <p style="font-size: 14px; margin-top: 10px;">© 2025 Pranav Patil. All rights reserved.</p>
     </footer>
 
+    <script>
+        function toggleMenu() {
+            const navbar = document.getElementById('navbar');
+            navbar.classList.toggle('show');
+        }
+    </script>
 
 </body>
 
