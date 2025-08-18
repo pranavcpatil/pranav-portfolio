@@ -6,7 +6,7 @@ A responsive and modern Portfolio Website built using HTML, CSS, and JavaScript.
 This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my projects, skills, and contact information.
 
 ## 🌐 Live Demo
-[https://pranavcpatil74.github.io/pranav-portfolio](https://pranavcpatil74.github.io/pranav-portfolio)
+[https://pranavcpatil74.github.io/pranav-portfolio](https://pranavcpatil74.github.io/pranav-portfolio/)
 
 ## 🧩 Features
 - Responsive design
