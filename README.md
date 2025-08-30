@@ -8,7 +8,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 
 ## 🌐 Live Demo
 
-[https://pranavcpatil.github.io/pranav-portfolio/](https://pranavcpatil74.github.io/pranav-portfolio/)
+[https://pranavcpatil.github.io/pranav-portfolio/](https://pranavcpatil.github.io/pranav-portfolio/)
 
 ## 🧩 Features
 
